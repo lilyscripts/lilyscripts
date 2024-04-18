@@ -1,7 +1,7 @@
 ```json
 {
   "name": "lily",
-  "age": 17,
+  "age": 16,
   "location": "cali",
   "depressed": true
 }
